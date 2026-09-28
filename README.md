@@ -2,8 +2,6 @@
 
 LynxOffice offers Homebrew formulae that install the LynxOffice MCP server and command-line tool on macOS.
 
-> **Status:** the formulae arrive with the first release.
-
 ```bash
 brew install lynxoffice/tap/lynxoffice        # the lynxoffice command
 brew install lynxoffice/tap/lynxoffice-mcp    # the MCP server
