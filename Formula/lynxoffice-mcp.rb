@@ -1,8 +1,8 @@
 class LynxofficeMcp < Formula
   desc "MCP server that lets AI agents read and edit Office documents and PDFs"
   homepage "https://github.com/LynxOffice/lynxoffice-mcp-mac"
-  url "https://github.com/LynxOffice/lynxoffice-mcp-mac/releases/download/v1.1.2/lynxoffice-mcp-1.1.2-macos.tar.gz"
-  sha256 "ce22bbc70d908d362417f46de46e709aa3c60cd5e984c70fc18bc97ed636b846"
+  url "https://github.com/LynxOffice/lynxoffice-mcp-mac/releases/download/v1.1.3/lynxoffice-mcp-1.1.3-macos.tar.gz"
+  sha256 "889fda63befa7bbda3d72683333864a9cb38e8762d4d15323a550bc79a97cb3f"
 
   depends_on macos: :sonoma
 
