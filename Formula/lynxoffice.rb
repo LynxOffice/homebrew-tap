@@ -1,8 +1,8 @@
 class Lynxoffice < Formula
   desc "Read and edit Word, Excel, PowerPoint and PDF files from the terminal"
   homepage "https://github.com/LynxOffice/lynxoffice-cli-mac"
-  url "https://github.com/LynxOffice/lynxoffice-cli-mac/releases/download/v1.1.4/lynxoffice-1.1.4-macos.tar.gz"
-  sha256 "981dd7e0dffcde0d4ccf94ff79957fa08178deb6e87171722ef533e4b00653ab"
+  url "https://github.com/LynxOffice/lynxoffice-cli-mac/releases/download/v1.1.5/lynxoffice-1.1.5-macos.tar.gz"
+  sha256 "3eca1641988444db6a3707a4262309fd7fd3a3b9f28307c61e6160311e01975c"
 
   depends_on macos: :sonoma
 
